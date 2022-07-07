@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digitalcommons.unl.edu/conservationsurvey/294|oai:digitalcommons.unl.edu:conservationsurvey-1292",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Topographic Regions of Nebraska",
+  "dct_provenance_s": "University of Nebraska-Lincoln",
+  "layer_slug_s": "ca93500e-03e7-45a8-9b08-37c3bcf4af2f",
+  "solr_geom": "ENVELOPE(-104.0535,-95.3081,43.0013,40.0)",
+  "solr_year_i": "1990",
+  "dc_creator_sm": [
+    "Condra, G. E."
+  ],
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1292\\u0026amp;context=conservationsurvey\",\"http://schema.org/url\":\"https://digitalcommons.unl.edu/conservationsurvey/294\"}",
+  "dct_spatial_sm": [
+    "Nebraska"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:31Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Conservation and Survey Division"
+}

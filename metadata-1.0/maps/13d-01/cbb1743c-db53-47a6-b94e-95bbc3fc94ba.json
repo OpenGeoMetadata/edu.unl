@@ -1,0 +1,20 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digitalcommons.unl.edu/conservationsurvey/289|oai:digitalcommons.unl.edu:conservationsurvey-1297",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Nebraska Natural Resource District Boundaries",
+  "dct_provenance_s": "University of Nebraska-Lincoln",
+  "layer_slug_s": "cbb1743c-db53-47a6-b94e-95bbc3fc94ba",
+  "solr_geom": "ENVELOPE(-104.0535,-95.3081,43.0013,40.0)",
+  "solr_year_i": "1990",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1297\\u0026amp;context=conservationsurvey\",\"http://schema.org/url\":\"https://digitalcommons.unl.edu/conservationsurvey/289\"}",
+  "dct_spatial_sm": [
+    "Nebraska"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:07Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Conservation and Survey Division"
+}

@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digitalcommons.unl.edu/watercenterpubs/6|oai:digitalcommons.unl.edu:watercenterpubs-1005",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Nebraska Water (map/poster)",
+  "dct_provenance_s": "University of Nebraska-Lincoln",
+  "layer_slug_s": "19ac4c59-04c3-4a85-8854-62d88c1e1c7c",
+  "solr_geom": "ENVELOPE(-104.0535,-95.3081,43.0013,40.0)",
+  "solr_year_i": "1990",
+  "dc_description_s": "A 36\" x 24\" poster including topographical and watershed map of the state of Nebraska and inset maps showing: Density of Active Registered Irrigation Wells - January 2008 Groundwater-Level Changes - Predevelopment to Spring 2007 Generalized Nitrate Levels in Wells Sampled, 1974 - 2006 Mean Annual Precipitation, 1971 - 2000 and Generalized Gaining/Losing Streams DNR Designated Hydrologically-Connected Fully and Overappropriated Basins, Subbasins and Reaches, July 2008 River Basins with Coldwater and Warmwater Stream Designations Generalized Atrazine Levels in Wells Sampled, 1974 - 2006 Threatened and Endangered Waterbirds and Fish High Plains Aquifer, Saturated Thickness, 1997 Estimated Water Use in Nebraska in 2005",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1005\\u0026amp;context=watercenterpubs\",\"http://schema.org/url\":\"https://digitalcommons.unl.edu/watercenterpubs/6\"}",
+  "dct_spatial_sm": [
+    "Nebraska"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:10Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "The Water Center",
+  "dct_temporal_sm": [
+    "2008"
+  ]
+}

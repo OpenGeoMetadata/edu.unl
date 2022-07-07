@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digitalcommons.unl.edu/conservationsurvey/258|oai:digitalcommons.unl.edu:conservationsurvey-1259",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Groundwater Map of Nebraska Relation Fall 1962 Observation Well Readings to Median",
+  "dct_provenance_s": "University of Nebraska-Lincoln",
+  "layer_slug_s": "f77ae4d3-225a-402a-9236-1529ac2c2cf0",
+  "solr_geom": "ENVELOPE(-104.0535,-95.3081,43.0013,40.0)",
+  "solr_year_i": "1990",
+  "dc_creator_sm": [
+    "Reed, E. C."
+  ],
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "Groundwater"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1259\\u0026amp;context=conservationsurvey\",\"http://schema.org/url\":\"https://digitalcommons.unl.edu/conservationsurvey/258\"}",
+  "dct_spatial_sm": [
+    "Nebraska"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:22Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Conservation and Survey Division",
+  "dct_temporal_sm": [
+    "1962"
+  ]
+}

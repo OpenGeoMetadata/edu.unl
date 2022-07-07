@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digitalcommons.unl.edu/conservationsurvey/262|oai:digitalcommons.unl.edu:conservationsurvey-1263",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Nebraska Groundwater Level (Decline & Rise), 1970",
+  "dct_provenance_s": "University of Nebraska-Lincoln",
+  "layer_slug_s": "edc0cd08-8397-46a3-9d5f-fc3bf406ef3a",
+  "solr_geom": "ENVELOPE(-104.0535,-95.3081,43.0013,40.0)",
+  "solr_year_i": "1990",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "Groundwater"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1263\\u0026amp;context=conservationsurvey\",\"http://schema.org/url\":\"https://digitalcommons.unl.edu/conservationsurvey/262\"}",
+  "dct_spatial_sm": [
+    "Nebraska"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:35Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Conservation and Survey Division",
+  "dct_temporal_sm": [
+    "1970"
+  ]
+}

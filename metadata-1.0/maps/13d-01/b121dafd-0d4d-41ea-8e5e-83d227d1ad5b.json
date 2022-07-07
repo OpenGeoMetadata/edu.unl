@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digitalcommons.unl.edu/conservationsurvey/261|oai:digitalcommons.unl.edu:conservationsurvey-1262",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Groundwater Map of Nebraska Showing Relation of Fall 1961 Readings to Median Water Level Management",
+  "dct_provenance_s": "University of Nebraska-Lincoln",
+  "layer_slug_s": "b121dafd-0d4d-41ea-8e5e-83d227d1ad5b",
+  "solr_geom": "ENVELOPE(-104.0535,-95.3081,43.0013,40.0)",
+  "solr_year_i": "1990",
+  "dc_creator_sm": [
+    "Reed, E. C."
+  ],
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "Groundwater"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1262\\u0026amp;context=conservationsurvey\",\"http://schema.org/url\":\"https://digitalcommons.unl.edu/conservationsurvey/261\"}",
+  "dct_spatial_sm": [
+    "Nebraska"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:16Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Conservation and Survey Division",
+  "dct_temporal_sm": [
+    "1961"
+  ]
+}

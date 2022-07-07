@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digitalcommons.unl.edu/natrespapers/304|oai:digitalcommons.unl.edu:natrespapers-1306",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geologic Map of the O'Neill 1º X 2º Qwaudrangle, Nebraska with configuration maps of surfaces of formations\\",
+  "dct_provenance_s": "University of Nebraska-Lincoln",
+  "layer_slug_s": "56ba4c74-b99e-441a-ab6a-a568048c5a5d",
+  "solr_geom": "ENVELOPE(-104.0535,-95.3081,43.0013,40.0)",
+  "solr_year_i": "1990",
+  "dc_creator_sm": [
+    "Diffendal, Jr., Robert"
+  ],
+  "dc_description_s": "SCALE 1:250,000 CONTOUR INTERVAL 200 FEET Geology mapped principally from 1991-2000 by RFD, M.RV, E.JV, H. LG , and C.LT Editing and layout by R.F. Diffendal, Jr. and D. Ebbeka Map production by J. Nothwehr and L. Howard Revised slightly 6 January 2009, 20 July 2010, 5 October 2010, 10 September 2012.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1306\\u0026amp;context=natrespapers\",\"http://schema.org/url\":\"https://digitalcommons.unl.edu/natrespapers/304\"}",
+  "dct_spatial_sm": [
+    "Nebraska"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:32Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://mediacommons.unl.edu/luna/servlet/detail/UNL~30~30~156~14486",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hourly Progress of the Tidal Wave, August 14",
+  "dct_provenance_s": "University of Nebraska-Lincoln",
+  "layer_slug_s": "UNL~30~30~156~14486",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1887",
+  "dc_description_s": "Glass Lantern Slide, 3 1/4 X 4 in.",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://mediacommons.unl.edu/luna/servlet/detail/UNL~30~30~156~14486\"}",
+  "layer_modified_dt": "2022-04-01T15:32:22Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "UNL Libraries Image & Multimedia Collections",
+  "dct_temporal_sm": [
+    "1887-1920"
+  ]
+}

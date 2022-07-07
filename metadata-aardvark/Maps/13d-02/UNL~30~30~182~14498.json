@@ -1,0 +1,49 @@
+{
+  "dct_title_s": "Three Kinds of Latitude",
+  "dct_alternative_sm": [
+    "Three Kinds of Latitude"
+  ],
+  "dct_description_sm": [
+    "Glass Lantern Slide, 3 1/4 X 4 in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "UNL Libraries Image & Multimedia Collections"
+  ],
+  "schema_provider_s": "University of Nebraska-Lincoln",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "https://mediacommons.unl.edu/luna/servlet/iiif/m/UNL~30~30~182~14498/manifest"
+  ],
+  "dct_temporal_sm": [
+    "1887-1920"
+  ],
+  "gbl_indexYear_im": [
+    "1887"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1920]"
+  ],
+  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
+  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
+  "dcat_centroid": "0.0,0.0",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "13d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://mediacommons.unl.edu/luna/servlet/detail/UNL~30~30~182~14498\"}",
+  "id": "UNL~30~30~182~14498",
+  "dct_identifier_sm": [
+    "https://mediacommons.unl.edu/luna/servlet/detail/UNL~30~30~182~14498"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:30:45Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

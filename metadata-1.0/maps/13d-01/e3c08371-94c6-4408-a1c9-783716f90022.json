@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digitalcommons.unl.edu/usgspubs/23|oai:digitalcommons.unl.edu:usgspubs-1021",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Geologic Map and Topographic Profile of the Elm Creek West Quadrangle, Nebraska",
+  "dct_provenance_s": "University of Nebraska-Lincoln",
+  "layer_slug_s": "e3c08371-94c6-4408-a1c9-783716f90022",
+  "solr_geom": "ENVELOPE(-104.0535,-95.3081,43.0013,40.0)",
+  "solr_year_i": "1990",
+  "dc_description_s": "Geologic Map and Topographic Profile of the Elm Creek West Quadrangle, Nebraska",
+  "dc_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1021\\u0026amp;context=usgspubs\",\"http://schema.org/url\":\"https://digitalcommons.unl.edu/usgspubs/23\"}",
+  "dct_spatial_sm": [
+    "Nebraska"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:22Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "US Geological Survey",
+  "dct_temporal_sm": [
+    "2005"
+  ]
+}

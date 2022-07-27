@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://mediacommons.unl.edu/luna/servlet/detail/UNL~126~126~14453~1516213",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Aerials of Little Salt Creek and Salt Creek: Nebraska",
+  "dct_provenance_s": "University of Nebraska-Lincoln",
+  "layer_slug_s": "UNL~126~126~14453~1516213",
+  "solr_geom": "ENVELOPE(-96.913795,-96.462601,41.047665,40.522579)",
+  "solr_year_i": "1989",
+  "dc_creator_sm": [
+    "LPS Natural Resource District"
+  ],
+  "dc_description_s": "3 pages of aerial maps showing the Salt Creek and Little Salt Creek areas north of Lincoln.",
+  "dc_format_s": "PDF",
+  "dc_subject_sm": [
+    "Saline wetlands"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://mediacommons.unl.edu/luna/servlet/detail/UNL~126~126~14453~1516213\"}",
+  "dct_spatial_sm": [
+    "Lincoln, Nebraska",
+    "Lancaster County, Nebraska",
+    "Nebraska"
+  ],
+  "layer_modified_dt": "2022-07-27T00:56:11Z",
+  "dc_language_sm": [
+    "eng"
+  ]
+}

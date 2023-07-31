@@ -16,8 +16,12 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
+  "gbl_resourceType_sm": [
+    "World maps"
+  ],
   "dcat_keyword_sm": [
-    "https://mediacommons.unl.edu/luna/servlet/iiif/m/UNL~30~30~232~14331/manifest"
+    "bboxSprintJune2023",
+    "-180TO180"
   ],
   "dct_temporal_sm": [
     "1887-1920"
@@ -27,6 +31,9 @@
   ],
   "gbl_dateRange_drsim": [
     "[1887 TO 1920]"
+  ],
+  "dct_spatial_sm": [
+    "World"
   ],
   "locn_geometry": "ENVELOPE(-180,180,90,-90)",
   "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
@@ -39,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://mediacommons.unl.edu/luna/servlet/detail/UNL~30~30~232~14331\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://mediacommons.unl.edu/luna/servlet/detail/UNL~30~30~232~14331\",\"http://iiif.io/api/presentation#manifest\":\"https://mediacommons.unl.edu/luna/servlet/iiif/m/UNL~30~30~232~14331/manifest\"}",
   "id": "UNL~30~30~232~14331",
   "dct_identifier_sm": [
     "https://mediacommons.unl.edu/luna/servlet/detail/UNL~30~30~232~14331"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:34:01Z",
+  "gbl_mdModified_dt": "2023-06-23T22:00:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

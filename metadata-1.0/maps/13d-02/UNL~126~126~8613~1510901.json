@@ -9,11 +9,11 @@
   "solr_year_i": "1989",
   "dc_description_s": "A diagram of geology of the state of Nebraska.",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://mediacommons.unl.edu/luna/servlet/detail/UNL~126~126~8613~1510901\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://mediacommons.unl.edu/luna/servlet/detail/UNL~126~126~8613~1510901\",\"http://iiif.io/api/presentation#manifest\":\"https://mediacommons.unl.edu/luna/servlet/iiif/m/UNL~126~126~8613~1510901/manifest\"}",
   "dct_spatial_sm": [
     "Nebraska"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:50Z",
+  "layer_modified_dt": "2023-02-03T21:16:55Z",
   "dc_language_sm": [
     "eng"
   ],

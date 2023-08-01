@@ -33,10 +33,10 @@
     "[1989 TO 1989]"
   ],
   "dct_spatial_sm": [
-    "Lincoln, Nebraska",
+    "Nebraska--Lincoln",
     "Nebraska"
   ],
-  "locn_geometry": "ENVELOPE(-96.913795,-96.462601,41.047665,40.522579)",
+  "locn_geometry": "POLYGON((-96.913795 41.047665, -96.462601 41.047665, -96.462601 40.522579, -96.913795 40.522579, -96.913795 41.047665))",
   "dcat_bbox": "ENVELOPE(-96.913795,-96.462601,41.047665,40.522579)",
   "dcat_centroid": "40.785122,-96.688198",
   "pcdm_memberOf_sm": [
@@ -47,11 +47,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://mediacommons.unl.edu/luna/servlet/detail/UNL~126~126~14158~1515833\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://mediacommons.unl.edu/luna/servlet/detail/UNL~126~126~14158~1515833\",\"http://iiif.io/api/presentation#manifest\":\"https://mediacommons.unl.edu/luna/servlet/iiif/m/UNL~126~126~14158~1515833/manifest\"}",
   "id": "UNL~126~126~14158~1515833",
   "dct_identifier_sm": [
     "https://mediacommons.unl.edu/luna/servlet/s/u99nei"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:17Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

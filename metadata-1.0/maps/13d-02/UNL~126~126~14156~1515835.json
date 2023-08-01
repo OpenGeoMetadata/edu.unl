@@ -12,12 +12,12 @@
   "dc_subject_sm": [
     "Saline wetlands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://mediacommons.unl.edu/luna/servlet/detail/UNL~126~126~14156~1515835\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://mediacommons.unl.edu/luna/servlet/detail/UNL~126~126~14156~1515835\",\"http://iiif.io/api/presentation#manifest\":\"https://mediacommons.unl.edu/luna/servlet/iiif/m/UNL~126~126~14156~1515835/manifest\"}",
   "dct_spatial_sm": [
-    "Lincoln, Nebraska",
+    "Nebraska--Lincoln",
     "Nebraska"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:22Z",
+  "layer_modified_dt": "2023-02-03T21:18:44Z",
   "dc_language_sm": [
     "eng"
   ],

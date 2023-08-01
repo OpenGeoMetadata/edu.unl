@@ -8,14 +8,14 @@
   "solr_geom": "ENVELOPE(-104.0535,-95.3081,43.0013,40.0)",
   "solr_year_i": "1990",
   "dc_creator_sm": [
-    "Elder, John"
+    "Elder, John A."
   ],
   "dc_format_s": "PDF",
   "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1290\\u0026amp;context=conservationsurvey\",\"http://schema.org/url\":\"https://digitalcommons.unl.edu/conservationsurvey/296\"}",
   "dct_spatial_sm": [
     "Nebraska"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:24Z",
+  "layer_modified_dt": "2023-02-03T21:16:25Z",
   "dc_language_sm": [
     "eng"
   ],

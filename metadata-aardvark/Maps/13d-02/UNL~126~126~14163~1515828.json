@@ -26,11 +26,11 @@
     "[1989 TO 2000]"
   ],
   "dct_spatial_sm": [
-    "Lincoln, Nebraska",
-    "Lancaster County, Nebraska",
+    "Nebraska--Lincoln",
+    "Nebraska--Lancaster County",
     "Nebraska"
   ],
-  "locn_geometry": "ENVELOPE(-96.913795,-96.462601,41.047665,40.522579)",
+  "locn_geometry": "POLYGON((-96.913795 41.047665, -96.462601 41.047665, -96.462601 40.522579, -96.913795 40.522579, -96.913795 41.047665))",
   "dcat_bbox": "ENVELOPE(-96.913795,-96.462601,41.047665,40.522579)",
   "dcat_centroid": "40.785122,-96.688198",
   "pcdm_memberOf_sm": [
@@ -41,11 +41,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://mediacommons.unl.edu/luna/servlet/detail/UNL~126~126~14163~1515828\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://mediacommons.unl.edu/luna/servlet/detail/UNL~126~126~14163~1515828\",\"http://iiif.io/api/presentation#manifest\":\"https://mediacommons.unl.edu/luna/servlet/iiif/m/UNL~126~126~14163~1515828/manifest\"}",
   "id": "UNL~126~126~14163~1515828",
   "dct_identifier_sm": [
     "https://mediacommons.unl.edu/luna/servlet/detail/UNL~126~126~14163~1515828"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:07Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-114.83,-95.15,45.85,35.07)",
   "solr_year_i": "1989",
   "dc_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://mediacommons.unl.edu/luna/servlet/detail/UNL~19~19~535~11738\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://mediacommons.unl.edu/luna/servlet/detail/UNL~19~19~535~11738\",\"http://iiif.io/api/presentation#manifest\":\"https://mediacommons.unl.edu/luna/servlet/iiif/m/UNL~19~19~535~11738/manifest\"}",
   "dct_spatial_sm": [
     "Nebraska",
     "Utah",
@@ -16,7 +16,7 @@
     "South Dakota",
     "Wyoming"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:12Z",
+  "layer_modified_dt": "2023-02-03T21:21:18Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -11,13 +11,13 @@
   "dc_subject_sm": [
     "Saline wetlands"
   ],
-  "dct_references_s": "{\"http://schema.org/url\":\"https://mediacommons.unl.edu/luna/servlet/detail/UNL~126~126~14171~1515820\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://mediacommons.unl.edu/luna/servlet/detail/UNL~126~126~14171~1515820\",\"http://iiif.io/api/presentation#manifest\":\"https://mediacommons.unl.edu/luna/servlet/iiif/m/UNL~126~126~14171~1515820/manifest\"}",
   "dct_spatial_sm": [
-    "Lincoln, Nebraska",
-    "Lancaster County, Nebraska",
+    "Nebraska--Lincoln",
+    "Nebraska--Lancaster County",
     "Nebraska"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:53Z",
+  "layer_modified_dt": "2023-02-03T21:23:52Z",
   "dc_language_sm": [
     "eng"
   ],
